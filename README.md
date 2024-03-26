@@ -7,43 +7,43 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Original Data
-![fff](PyCitySchools/Images/Original_Data.png)
+!(PyCitySchools/Images/Original_Data.png)
 
 
 ## District Summary
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/District_Summary.png)
+!(/PyCitySchools/Images/District_Summary.png)
 
 
 ## School Summary
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/School_Summary.png)
+!(PyCitySchools/Images/School_Summary.png)
 
 
 ## Highest-Performing Schools (by % Overall Passing)
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Highest_Performing.png)
+!(PyCitySchools/Images/Highest_Performing.png)
 
 
 ## Lowest-Performing Schools (by % Overall Passing)
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Lowest_Performing.png)
+!(PyCitySchools/Images/Lowest_Performing.png)
 
 
 ## Math Scores by Grade
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Math_Scores.png)
+!(PyCitySchools/Images/Math_Scores.png)
 
 
 ## Reading Scores by Grade
-!(/https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Reading_Scores.png)
+!(PyCitySchools/Images/Reading_Scores.png)
 
 
 ## Scores by School Spending
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Scores_Spending.png)
+!(PyCitySchools/Images/Scores_Spending.png)
 
 
 ## Scores by School Size
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Scores_Size.png)
+!(PyCitySchools/Images/Scores_Size.png)
 
 
 ## Scores by School Type
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Scores_Type.png)
+!(PyCitySchools/Images/Scores_Type.png)
 
 
 ## Conclusions
