@@ -7,43 +7,43 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Original Data
-!/PyCitySchools/Images/Original Data.png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Original Data.png
 
 
 ## District Summary
-!/PyCitySchools/Images/District Summary.png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/District Summary.png
 
 
 ## School Summary
-!/PyCitySchools/Images/School Summary.png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/School Summary.png
 
 
 ## Highest-Performing Schools (by % Overall Passing)
-!/PyCitySchools/Images/Highest-Performing Schools (by % Overall Passing).png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Highest-Performing Schools (by % Overall Passing).png
 
 
 ## Lowest-Performing Schools (by % Overall Passing)
-!/PyCitySchools/Images/Lowest-Performing Schools (by % Overall Passing).png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Lowest-Performing Schools (by % Overall Passing).png
 
 
 ## Math Scores by Grade
-!/PyCitySchools/Images/Math Scores by Grade.png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Math Scores by Grade.png
 
 
 ## Reading Scores by Grade
-!/PyCitySchools/Images/Reading Scores by Grade.png
+!/https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Reading Scores by Grade.png
 
 
 ## Scores by School Spending
-!/PyCitySchools/Images/Scores by School Spending.png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Scores by School Spending.png
 
 
 ## Scores by School Size
-!/PyCitySchools/Images/Scores by School Size.png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Scores by School Size.png
 
 
 ## Scores by School Type
-!/PyCitySchools/Images/Scores by School Type.png
+!https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Scores by School Type.png
 
 
 ## Conclusions
