@@ -7,7 +7,7 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Original Data
-!(https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Original_Data.png)
+![fff](https://github.com/danielmolina81/pandas-challenge/blob/main/PyCitySchools/Images/Original_Data.png)
 
 
 ## District Summary
