@@ -43,7 +43,7 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Scores by School Type
-!(PyCitySchools/Images/Scores_Type.png)
+![](PyCitySchools/Images/Scores_Type.png)
 
 
 ## Conclusions
