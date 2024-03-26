@@ -7,23 +7,23 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Original Data
-/Images/Original Data.png
+!/Images/Original Data.png
 
 
 ## District Summary
-/Images/District Summary.png
+!/Images/District Summary.png
 
 
 ## School Summary
-/Images/School Summary.png
+!/Images/School Summary.png
 
 
 ## Highest-Performing Schools (by % Overall Passing)
-/Images/Highest-Performing Schools (by % Overall Passing).png
+!/Images/Highest-Performing Schools (by % Overall Passing).png
 
 
 ## Lowest-Performing Schools (by % Overall Passing)
-/Images/Lowest-Performing Schools (by % Overall Passing).png
+!!/Images/Lowest-Performing Schools (by % Overall Passing).png
 
 
 ## Math Scores by Grade
@@ -31,19 +31,19 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Reading Scores by Grade
-/Images/Reading Scores by Grade.png
+!/Images/Reading Scores by Grade.png
 
 
 ## Scores by School Spending
-/Images/Scores by School Spending.png
+!/Images/Scores by School Spending.png
 
 
 ## Scores by School Size
-/Images/Scores by School Size.png
+!/Images/Scores by School Size.png
 
 
 ## Scores by School Type
-/Images/Scores by School Type.png
+!/Images/Scores by School Type.png
 
 
 ## Conclusions
