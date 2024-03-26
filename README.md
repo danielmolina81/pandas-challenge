@@ -7,43 +7,43 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Original Data
-!(PyCitySchools/Images/Original_Data.png)
+![Original Data](PyCitySchools/Images/Original_Data.png)
 
 
 ## District Summary
-!(/PyCitySchools/Images/District_Summary.png)
+![District Summary](/PyCitySchools/Images/District_Summary.png)
 
 
 ## School Summary
-!(PyCitySchools/Images/School_Summary.png)
+![Schools Summary](PyCitySchools/Images/School_Summary.png)
 
 
 ## Highest-Performing Schools (by % Overall Passing)
-!(PyCitySchools/Images/Highest_Performing.png)
+![Highest-Performing Schools (by % Overall Passing)](PyCitySchools/Images/Highest_Performing.png)
 
 
 ## Lowest-Performing Schools (by % Overall Passing)
-!(PyCitySchools/Images/Lowest_Performing.png)
+![Lowest-Performing Schools (by % Overall Passing)](PyCitySchools/Images/Lowest_Performing.png)
 
 
 ## Math Scores by Grade
-!(PyCitySchools/Images/Math_Scores.png)
+![Math Scores by Grade](PyCitySchools/Images/Math_Scores.png)
 
 
 ## Reading Scores by Grade
-!(PyCitySchools/Images/Reading_Scores.png)
+![Reading Scores by Grade](PyCitySchools/Images/Reading_Scores.png)
 
 
 ## Scores by School Spending
-!(PyCitySchools/Images/Scores_Spending.png)
+![Scores by School Spending](PyCitySchools/Images/Scores_Spending.png)
 
 
 ## Scores by School Size
-!(PyCitySchools/Images/Scores_Size.png)
+![Scores by School Size](PyCitySchools/Images/Scores_Size.png)
 
 
 ## Scores by School Type
-![](PyCitySchools/Images/Scores_Type.png)
+![Scores by School Type](PyCitySchools/Images/Scores_Type.png)
 
 
 ## Conclusions
