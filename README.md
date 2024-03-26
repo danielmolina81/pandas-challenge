@@ -7,43 +7,43 @@ Using data from the 9th to 12th grade student's math and reading scores, in addi
 
 
 ## Original Data
-!/Images/Original Data.png
+!/PyCitySchools/Images/Original Data.png
 
 
 ## District Summary
-!/Images/District Summary.png
+!/PyCitySchools/Images/District Summary.png
 
 
 ## School Summary
-!/Images/School Summary.png
+!/PyCitySchools/Images/School Summary.png
 
 
 ## Highest-Performing Schools (by % Overall Passing)
-!/Images/Highest-Performing Schools (by % Overall Passing).png
+!/PyCitySchools/Images/Highest-Performing Schools (by % Overall Passing).png
 
 
 ## Lowest-Performing Schools (by % Overall Passing)
-!!/Images/Lowest-Performing Schools (by % Overall Passing).png
+!/PyCitySchools/Images/Lowest-Performing Schools (by % Overall Passing).png
 
 
 ## Math Scores by Grade
-/Images/Math Scores by Grade.png
+!/PyCitySchools/Images/Math Scores by Grade.png
 
 
 ## Reading Scores by Grade
-!/Images/Reading Scores by Grade.png
+!/PyCitySchools/Images/Reading Scores by Grade.png
 
 
 ## Scores by School Spending
-!/Images/Scores by School Spending.png
+!/PyCitySchools/Images/Scores by School Spending.png
 
 
 ## Scores by School Size
-!/Images/Scores by School Size.png
+!/PyCitySchools/Images/Scores by School Size.png
 
 
 ## Scores by School Type
-!/Images/Scores by School Type.png
+!/PyCitySchools/Images/Scores by School Type.png
 
 
 ## Conclusions
